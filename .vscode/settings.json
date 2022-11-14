@@ -1,0 +1,29 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "*.inc": "c",
+    "task.h": "c",
+    "manager.h": "c",
+    "freertos.h": "c",
+    "*.tcc": "c",
+    "*.ipp": "c",
+    "ratio": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "event_groups.h": "c",
+    "chrono": "cpp",
+    "esp_system.h": "c",
+    "cloud_data.h": "c",
+    "iothubtransportmqtt.h": "c",
+    "cloud_manager.h": "c",
+    "queue.h": "c",
+    "gpio.h": "c",
+    "uuid.h": "c",
+    "functional": "c",
+    "system_error": "c",
+    "iothub_device_client_ll.h": "c"
+  },
+  "idf.portWin": "COM30"
+}
