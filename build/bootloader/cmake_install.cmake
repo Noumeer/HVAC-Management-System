@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Noumeer/ESP-IDF/AZURE/eTrapp/project/etrapp_code/build/bootloader/esp-idf/cmake_install.cmake")
+  include("D:/Noumeer/ESP-IDF/I-Tech/eTrapp/project/eTrapp/build/bootloader/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Noumeer/ESP-IDF/AZURE/eTrapp/project/etrapp_code/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Noumeer/ESP-IDF/I-Tech/eTrapp/project/eTrapp/build/bootloader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

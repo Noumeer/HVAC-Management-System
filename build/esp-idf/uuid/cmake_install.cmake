@@ -1,4 +1,4 @@
-# Install script for directory: D:/Noumeer/ESP-IDF/AZURE/eTrapp/project/etrapp_code/components/uuid
+# Install script for directory: D:/Noumeer/ESP-IDF/I-Tech/eTrapp/project/eTrapp/components/uuid
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Noumeer/ESP-IDF/AZURE/eTrapp/project/etrapp_code/build/esp-idf/newlib/port/cmake_install.cmake")
+  include("D:/Noumeer/ESP-IDF/I-Tech/eTrapp/project/eTrapp/build/esp-idf/newlib/port/cmake_install.cmake")
 
 endif()
 

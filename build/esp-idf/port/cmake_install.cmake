@@ -1,4 +1,4 @@
-# Install script for directory: D:/Noumeer/ESP-IDF/AZURE/eTrapp/port
+# Install script for directory: D:/Noumeer/ESP-IDF/I-Tech/eTrapp/port
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

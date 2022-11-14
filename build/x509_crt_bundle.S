@@ -1,4 +1,4 @@
-/* * Data converted from D:/Noumeer/ESP-IDF/AZURE/eTrapp/project/etrapp_code/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from D:/Noumeer/ESP-IDF/I-Tech/eTrapp/project/eTrapp/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded
