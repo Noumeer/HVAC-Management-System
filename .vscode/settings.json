@@ -25,5 +25,5 @@
     "system_error": "c",
     "iothub_device_client_ll.h": "c"
   },
-  "idf.portWin": "COM30"
+  "idf.portWin": "COM3"
 }
